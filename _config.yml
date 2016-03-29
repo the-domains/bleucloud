@@ -1,0 +1,28 @@
+name: Bleu Cloud
+favicon: null
+layout_spectrum: 0.7492416852619499
+typography_spectrum: 0.7886220815125853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.024629067163914442
+  lightness: 0.2541421421337873
+  saturation: 0.06321111135184765
+  rhythmicContrast: 0.6002520062029362
+purpose: []
